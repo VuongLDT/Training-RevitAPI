@@ -74,6 +74,7 @@ namespace VuongLeTools
                 // Cộng thêm 100mm vào giá trị gốc với đơn vị feet
                 double newHeightOffset_feet_V2 = heightOffset + UnitConverter.MmToFeet(100);
 
+                //
                 
 
                 Transaction trans = new Transaction(doc);
