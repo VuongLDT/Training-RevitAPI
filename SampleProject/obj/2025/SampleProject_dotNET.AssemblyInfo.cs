@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © 2020-2026 VuongLDT")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Tools for Revit")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c1435034302d5ca2c5b71ae0c72ec6f500f874")]
 [assembly: System.Reflection.AssemblyProductAttribute("VSolution [Sample]")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VSolution [Sample] - Tool for Revit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
